@@ -1,9 +1,10 @@
 ---
 layout: post
+menu: Mengapa Tiap Programmer Harus Mulai Blogging
 title: "Mengapa Tiap Programmer Harus Mulai Blogging"
 date: 2017-12-27 17:02:12 +0700
 categories: hello world programming blogging
-description: an example of a blog post with some code
+description: ini alasan kenapa programmer harus memiliki blog dan aktif menulis.
 ---
 
 Hai! Ini adalah pengalaman pertama saya untuk menulis di Github Pages. Untuk permulaan, saya tidak menulis tentang hal teknis. Saya akan mencoba menulis dengan salah satu kegelisahan saya, “setiap programmer harus menulis”, atau paling tidak memiliki sebuah blog. *FYI*, Saya sudah menulis di personal blog saya sebelumnya di berbagai macam platform. Mulai dari Wordpress, Blogspot, hingga Medium. Mungkin, beberapa tulisan lama saya akan dipindah ke sini juga.
