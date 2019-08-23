@@ -1,5 +1,6 @@
 ---
 layout: post
+menu: Eye Care. Sistem Pakar Penyakit Mata Menggunakan Java dan Database SQL
 title: "Eye Care. Sistem Pakar Penyakit Mata Menggunakan Java dan Database SQL"
 date: 2014-02-20 17:02:12 +0700
 categories: expert system eye care java sql

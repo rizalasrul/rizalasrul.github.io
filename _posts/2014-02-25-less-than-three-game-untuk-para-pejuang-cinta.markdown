@@ -1,5 +1,6 @@
 ---
 layout: post
+menu: "Less Than Three: Game Untuk Para Pejuang Cinta"
 title: "Less Than Three: Game Untuk Para Pejuang Cinta"
 date: 2014-02-25 17:02:12 +0700
 categories: less than three game development love
